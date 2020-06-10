@@ -1,0 +1,12 @@
+p,a {
+  color: maroon;
+  font-family: sans-serif;
+}
+h1,h2{
+  color: gray;
+  font-family: cursive;
+}
+h1{
+  border-bottom: 1.5px solid gray;
+}
+/* commenting */
