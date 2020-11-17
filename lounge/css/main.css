@@ -74,6 +74,8 @@ body{
   background-repeat: repeat-x;
   background-size: auto;
   background-position: top left;
+
+  float: right;
 }
 
 /* parent descendent */
@@ -82,6 +84,10 @@ body{
 }
 #elixirs h3{
   color: crimson;
+}
+
+#header{
+text-align: center; 
 }
 
 #footer{
@@ -98,4 +104,13 @@ body{
 }
 .artist{
   font-weight: bold;
+}
+
+a:link, a:visited{
+  color: black;
+  text-decoration: underline;
+}
+
+a:hover{
+  color: #007e7e;
 }
